@@ -6,3 +6,4 @@ Versão: Ruby 3.1.3 e Rails 6.1
 
 Projeto projetorails_sti_triple_nested_form
 Formulário Triplamente Aninhado usando a Gem cocoon: Carona, Ponto e Ponto_Carona
+Versão: Ruby 3.1.3 e Rails 6.1
